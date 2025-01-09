@@ -1,1 +1,1 @@
-texto totalmente normal 
+no windows aparentemente nao roda mas o codigo ta certo meu deus
